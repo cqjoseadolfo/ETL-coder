@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 3.8.6 Docker (etl-coder:latest)" project-jdk-type="Python SDK" />
+  <component name="Black">
+    <option name="sdkName" value="fundamentos-etl" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (docker-python-env)" project-jdk-type="Python SDK" />
+  <component name="PyCharmDSProjectLayout">
+    <option name="id" value="JupyterRightHiddenStructureLayout" />
+  </component>
 </project>
